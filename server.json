@@ -1,0 +1,264 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "amountOfVideos": 78
+    },
+    {
+      "id": 2,
+      "title": "Vue.js",
+      "amountOfVideos": 93
+    },
+    {
+      "id": 3,
+      "title": "Django",
+      "amountOfVideos": 115
+    },
+    {
+      "id": 4,
+      "title": "Node.js",
+      "amountOfVideos": 201
+    },
+    {
+      "id": 5,
+      "title": "Express.js",
+      "amountOfVideos": 64
+    },
+    {
+      "id": 6,
+      "title": "Laravel",
+      "amountOfVideos": 87
+    },
+    {
+      "id": 7,
+      "title": "Spring Boot",
+      "amountOfVideos": 142
+    },
+    {
+      "id": 8,
+      "title": "Ruby on Rails",
+      "amountOfVideos": 55
+    },
+    {
+      "id": 9,
+      "title": "Flask",
+      "amountOfVideos": 38
+    },
+    {
+      "id": 10,
+      "title": "React Native",
+      "amountOfVideos": 120
+    },
+    {
+      "id": 11,
+      "title": "Ember.js",
+      "amountOfVideos": 19
+    },
+    {
+      "id": 12,
+      "title": "Svelte",
+      "amountOfVideos": 72
+    },
+    {
+      "id": 13,
+      "title": "Meteor",
+      "amountOfVideos": 27
+    },
+    {
+      "id": 14,
+      "title": "Next.js",
+      "amountOfVideos": 89
+    },
+    {
+      "id": 15,
+      "title": "Gatsby",
+      "amountOfVideos": 53
+    },
+    {
+      "id": 16,
+      "title": "Nuxt.js",
+      "amountOfVideos": 68
+    },
+    {
+      "id": 17,
+      "title": "Adonis.js",
+      "amountOfVideos": 41
+    },
+    {
+      "id": 18,
+      "title": "FastAPI",
+      "amountOfVideos": 34
+    },
+    {
+      "id": 19,
+      "title": "RubyMotion",
+      "amountOfVideos": 8
+    },
+    {
+      "id": 20,
+      "title": "Quasar Framework",
+      "amountOfVideos": 23
+    },
+    {
+      "id": 21,
+      "title": "Polymer",
+      "amountOfVideos": 12
+    },
+    {
+      "id": 22,
+      "title": "Stencil",
+      "amountOfVideos": 15
+    },
+    {
+      "id": 23,
+      "title": "Blazor",
+      "amountOfVideos": 47
+    },
+    {
+      "id": 24,
+      "title": "Sapper",
+      "amountOfVideos": 21
+    },
+    {
+      "id": 25,
+      "title": "Slim",
+      "amountOfVideos": 9
+    },
+    {
+      "id": 26,
+      "title": "Preact",
+      "amountOfVideos": 30
+    },
+    {
+      "id": 27,
+      "title": "Choo",
+      "amountOfVideos": 6
+    },
+    {
+      "id": 28,
+      "title": "Mithril",
+      "amountOfVideos": 18
+    },
+    {
+      "id": 29,
+      "title": "Backbone.js",
+      "amountOfVideos": 25
+    },
+    {
+      "id": 30,
+      "title": "Knockout.js",
+      "amountOfVideos": 14
+    },
+    {
+      "id": 31,
+      "title": "Aurelia",
+      "amountOfVideos": 11
+    },
+    {
+      "id": 32,
+      "title": "Alpine.js",
+      "amountOfVideos": 17
+    },
+    {
+      "id": 33,
+      "title": "Marko",
+      "amountOfVideos": 7
+    },
+    {
+      "id": 34,
+      "title": "Riot.js",
+      "amountOfVideos": 5
+    },
+    {
+      "id": 35,
+      "title": "Solid.js",
+      "amountOfVideos": 10
+    },
+    {
+      "id": 36,
+      "title": "Stimulus",
+      "amountOfVideos": 13
+    },
+    {
+      "id": 37,
+      "title": "MVC",
+      "amountOfVideos": 29
+    },
+    {
+      "id": 38,
+      "title": "MVVM",
+      "amountOfVideos": 22
+    },
+    {
+      "id": 39,
+      "title": "Observer Pattern",
+      "amountOfVideos": 16
+    },
+    {
+      "id": 40,
+      "title": "Singleton Pattern",
+      "amountOfVideos": 20
+    },
+    {
+      "id": 41,
+      "title": "Factory Pattern",
+      "amountOfVideos": 24
+    },
+    {
+      "id": 42,
+      "title": "Decorator Pattern",
+      "amountOfVideos": 28
+    },
+    {
+      "id": 43,
+      "title": "Adapter Pattern",
+      "amountOfVideos": 26
+    },
+    {
+      "id": 44,
+      "title": "Facade Pattern",
+      "amountOfVideos": 31
+    },
+    {
+      "id": 45,
+      "title": "Bridge Pattern",
+      "amountOfVideos": 33
+    },
+    {
+      "id": "e95a",
+      "name": "danrleyCARAIO",
+      "slug": ""
+    },
+    {
+      "id": "dd52",
+      "name": "danrleyCARAIO",
+      "slug": ""
+    },
+    {
+      "id": "8f47",
+      "title": "slugTESTE",
+      "slug": "slugteste"
+    },
+    {
+      "id": "5de5",
+      "title": "slugTESTE",
+      "slug": "slugteste"
+    },
+    {
+      "id": "97f2",
+      "title": "Dumbo.js",
+      "slug": "dumbojs"
+    },
+    {
+      "id": "5564",
+      "title": "GiraffeDB",
+      "slug": "giraffedb"
+    },
+    {
+      "id": "856f",
+      "title": "DeveAparecerSozinhoNaLista",
+      "slug": "deveaparecersozinhonalista"
+    }
+  ]
+}
